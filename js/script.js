@@ -18,3 +18,4 @@ function calculateArea () {
   // output
   document.getElementById('area').innerHTML = 'The Area is ' + area + ' cm²'
 }
+  
