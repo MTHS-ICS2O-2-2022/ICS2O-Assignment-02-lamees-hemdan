@@ -16,7 +16,7 @@ func main() {
 	fmt.Println("Enter the height of the trapezoid: ")
 	fmt.Scan(&height)
 	area := (base1 + base2) * height / 2
-	fmt.Println("The area of the trapezoid is: ", area)
+	fmt.Println("The area of the trapezoid is: ", area, "cm²")
 
 	fmt.Println("\nDone.")
 }
